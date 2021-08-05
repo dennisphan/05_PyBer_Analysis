@@ -17,7 +17,7 @@ While the nubmer of drivers, total ride, and total fare were increaseing in the 
 ![The Data Summary](analysis/Fig9_Summary_Data_by_Area.png)
 
 ### The total weekly fares by city type
-
+Based on the graph of total weekly fare by city type, 
 
 **The total weekly fare by city type**
 ![The total weekly fare by city type](analysis/Fig8_Total_Fare_by_City_Type.png)
