@@ -14,6 +14,7 @@ Based on the data summary, the total ride was highest in urban areas with 1625 r
 While the nubmer of drivers, total ride, and total fare were increaseing in the order of rural, suburban, and urban areas, the average fare per ride and average fare per driver went the opposite way. In specific, the average fare per ride and driver were highest in rural areas ($34.62 and $55.49), than lowered in subruban ($30.97 and $39.50), and reached the lowest in urban areas ($24.53 and $16.57). 
 
 **Data Summary**
+
 ![The Data Summary](analysis/Fig9_Summary_Data_by_Area.png)
 
 ### The total weekly fares by city type
