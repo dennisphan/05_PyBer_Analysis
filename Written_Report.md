@@ -20,7 +20,7 @@ While the nubmer of drivers, total ride, and total fare were increaseing in the 
 
 
 **The total weekly fare by city type**
-![The total weekly fare by city type](Resources/Screenshots_Analysis_with_9th_THS/02_School_Summary.png)
+![The total weekly fare by city type](analysis/Fig8_Total_Fare_by_City_Type.png)
 
 ## Conclusion
 - There was an inversed relationship between average spending per student and results. The higher the spending, the lower the result and vice versa. However, since the data only included a specific spending range from $550 to $675, the pattern might change in the ranges of higher than $675 and of lower than $550. 
