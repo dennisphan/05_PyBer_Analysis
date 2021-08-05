@@ -18,16 +18,17 @@ While the nubmer of drivers, total ride, and total fare were increaseing in the 
 ![The Data Summary](analysis/Fig9_Summary_Data_by_Area.png)
 
 ### The total weekly fares by city type
-Based on the graph of total weekly fare by city type, 
+Based on the graph of total weekly fare by city type, the market size of each city type varied significantly: smallest in rural areas and largest in urban cities. The fluctuations in each market correlated with the market size where the least fluctuation occured in rural and the highest fluctuation happened in urban citites. In all three areas, the best time for ride sharing was the end of February while the beginning of January and the end of April were the most quiet time, except for suburban areas when the demand for Pyber service was high at the end of April. 
 
 **The total weekly fare by city type**
 ![The total weekly fare by city type](analysis/Fig8_Total_Fare_by_City_Type.png)
 
+## Limit
+ - The data was only from 1/1/2019 to 5/8/2019. It might not fully reflect the cycle of economic and daily activities of customers as well as drivers. 
+
 ## Conclusion
-- There was an inversed relationship between average spending per student and results. The higher the spending, the lower the result and vice versa. However, since the data only included a specific spending range from $550 to $675, the pattern might change in the ranges of higher than $675 and of lower than $550. 
+ - There was not enough demand in comparison with supply for Pyber services in urban cities where the number of drivers were higher than the total ride (2,405 drivers for 1,625 rides). Pyber should reduce budget and promotion for recruiting drivers and spend more on encouraging customers to use Pyber services. 
+ - While the number of drivers were less than total ride and the average fare per ride and per driver were significantly higher in rural and suburban cities than in urban cities, it might hint that the demand was not fully fulfilled in these areas. Pyber should consider implementing a more advanced research about expanding its services in rural and suburban cities. 
+ - The fluctuations in the weekly total fare should be looked closely to spot the reason. Was it because of weak demand or the decrease in supply? Was there unfulfilled demand in those periods? Was it the result of competitors' activities? 
 
-- The sizes schools influenced their students's performance. In specific, schools that had 2000 students or less performed better than schools that had from 2000 to 5000 students. One of the possible reasons could be the insufficiency of staff and facilities. More data with higher level of details are needed to better assess the relationship of school sizes and students' performance such as total fixed assets or number of staff and educators in each school. 
 
-- The influences of school types should be taken into account. Based on provided data, district-typed schools performed less effective than charter-typed schools. A more in-depth analysis should be conducted to figure out potential reasons as well as solutions. 
-
-- Finally, to increase the reliability of this dataset, there should be an additional analysis to assess the influences of potential outliers which could mislead the above results. 
